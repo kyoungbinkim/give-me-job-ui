@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2.5" fill="#111"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" fill="#d9ff43"/>
+  <rect width="1200" height="630" fill="url(#dots)" opacity=".14"/>
+  <path d="M0 500 1200 410v220H0z" fill="#ff4fa3" stroke="#111" stroke-width="8"/>
+
+  <g transform="translate(72 62)">
+    <rect x="8" y="10" width="410" height="68" fill="#111"/>
+    <text x="28" y="60" fill="#fffdf5" font-family="Arial Black, sans-serif" font-size="42" font-weight="900" letter-spacing="2">
+      GIVE ME JOB
+    </text>
+
+    <text x="0" y="196" fill="#111" font-family="Malgun Gothic, Apple SD Gothic Neo, sans-serif" font-size="82" font-weight="900">
+      취업아,
+    </text>
+    <text x="0" y="298" fill="#ff4fa3" stroke="#111" stroke-width="3" paint-order="stroke" font-family="Malgun Gothic, Apple SD Gothic Neo, sans-serif" font-size="92" font-weight="900">
+      나에게로 와.
+    </text>
+
+    <g transform="rotate(-2 290 376)">
+      <rect x="0" y="342" width="520" height="66" rx="4" fill="#fffdf5" stroke="#111" stroke-width="5"/>
+      <text x="24" y="386" fill="#111" font-family="Malgun Gothic, Apple SD Gothic Neo, sans-serif" font-size="27" font-weight="800">
+        근거 기반 한국 취업 준비 AI 에이전트
+      </text>
+    </g>
+
+    <text x="4" y="472" fill="#111" font-family="Malgun Gothic, Apple SD Gothic Neo, sans-serif" font-size="24" font-weight="800">
+      스펙 뻥튀기 없이 · 면접에서 안 털리는 글
+    </text>
+  </g>
+
+  <g transform="translate(740 72) rotate(3 190 210)">
+    <rect x="16" y="20" width="380" height="390" rx="32" fill="#111"/>
+    <rect x="0" y="0" width="380" height="390" rx="32" fill="#ff4fa3" stroke="#111" stroke-width="9"/>
+    <rect x="30" y="28" width="320" height="46" fill="#fffdf5" stroke="#111" stroke-width="5"/>
+    <circle cx="66" cy="51" r="10" fill="#d9ff43" stroke="#111" stroke-width="4"/>
+    <circle cx="102" cy="51" r="10" fill="#d9ff43" stroke="#111" stroke-width="4"/>
+    <circle cx="138" cy="51" r="10" fill="#d9ff43" stroke="#111" stroke-width="4"/>
+
+    <circle cx="127" cy="188" r="55" fill="#fffdf5" stroke="#111" stroke-width="9"/>
+    <circle cx="264" cy="188" r="55" fill="#fffdf5" stroke="#111" stroke-width="9"/>
+    <circle cx="139" cy="194" r="17" fill="#111"/>
+    <circle cx="252" cy="181" r="17" fill="#111"/>
+    <path d="M157 288h78" fill="none" stroke="#111" stroke-width="12" stroke-linecap="round"/>
+    <path d="m158 366 34 21 35-21-12 73h-45z" fill="#111" stroke="#111" stroke-width="6" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(914 470) rotate(-6)">
+    <rect x="5" y="6" width="224" height="72" fill="#111"/>
+    <rect width="224" height="72" fill="#fffdf5" stroke="#111" stroke-width="5"/>
+    <text x="22" y="47" fill="#111" font-family="Malgun Gothic, Apple SD Gothic Neo, sans-serif" font-size="25" font-weight="900">
+      취업시켜줘잉
+    </text>
+  </g>
+</svg>
