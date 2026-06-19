@@ -84,9 +84,11 @@ function App() {
         <div className="hero-copy">
           <div className="eyebrow">🚨 취준생 구조대 출동 중 🚨</div>
           <h1>
-            취업아,
+            자소서 AI,
             <br />
-            <span>나에게로 와.</span>
+            <span>취업 AI </span>
+            <br />
+            <span>에이전트.</span>
           </h1>
           <p className="hero-description">
             뇌절 없는 <strong>한국 취업 준비 AI 에이전트</strong>.
